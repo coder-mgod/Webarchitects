@@ -2,4 +2,4 @@
 
 # Just for fun.
 
-	##we wanna make stuff for you!
+We want to make fun stuff for you!	
